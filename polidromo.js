@@ -8,9 +8,6 @@ function Palidromo(string) {
     saveString += defaultString[i];
   }
 
-  console.log(saveString);
-  console.log(defaultString);
-
   if (defaultString == saveString) {
     console.log("É palíndromo");
   } else {

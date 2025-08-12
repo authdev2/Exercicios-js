@@ -5,8 +5,3 @@ for(let i = 0; i<=array.length; i++){
 }
 
 console.log(result)
-
-
-const arr = [1, 2, 3];
-const new = ...arr
-console.log(...arr); // imprime: 1 2 3
