@@ -6,9 +6,6 @@ function CountSatrings(string) {
   for (let i = 0; i < newString.length; i++) {
     for (let j = 0; j < vogais.length; j++) {
       if (newString[i] == vogais[j]) {
-        console.log(newString[i]);
-        console.log(vogais[j]);
-
         countVogais++;
       }
     }
