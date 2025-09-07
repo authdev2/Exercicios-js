@@ -2,7 +2,7 @@
 //E DA SEGUNDA AS ULTIMOS 3 CHARACTERES
 
 const string1 = "flavio"
-const string2 = "caralho"
+const string2 = "gomes"
 let newString = ""
 
 const result1 = string1.slice(0, 3)
